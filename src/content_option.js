@@ -5,7 +5,7 @@ title: "Viddhi Ladva",
 };
 
 const introdata = {
-    title: "I’m Viddhi Ladva",
+    title: "Hey, I’m Viddhi",
     animated: {
         first: "I love coding.",
         second: "I code cool websites.",
@@ -152,7 +152,6 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "viddhi.work@gmail.com",
-    YOUR_FONE: "(+91) 78020 99520",
     description: "Feel free to Contact me by submitting the form, my inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you! ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
